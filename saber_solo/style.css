@@ -55,5 +55,8 @@ body {
 .list-group li{
     border: none;
 }
+.mb-50{
+    margin-bottom: 50px;
+}
 
 
