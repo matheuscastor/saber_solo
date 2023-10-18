@@ -30,6 +30,24 @@ body {
             border: 3px solid #fff;
             height: 170px;
         }
+        .verde{
+            background: #75B687;
+            text-align: center;
+            border: 3px solid #fff;
+            height: 170px;
+        }
+        .amarelo{
+            background: #BEC057;
+            text-align: center;
+            border: 3px solid #fff;
+            height: 170px;
+        }
+        .vermelho{
+            background: #C29A9A;
+            text-align: center;
+            border: 3px solid #fff;
+            height: 170px;
+        }
         .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
     background-color: #BCBEAC;
@@ -37,3 +55,5 @@ body {
 .list-group li{
     border: none;
 }
+
+
